@@ -1,0 +1,137 @@
+/*Custom Design Style*/
+
+body {
+  background: #eceff4 !important;
+}
+a {
+  color: #8e9fa7;
+}
+a:hover {
+    text-decoration: none !important;
+}
+.bg-white {
+  background: #fff;
+}
+.navbar-menu {
+  background: #fff !important;
+  border-bottom: 1px solid #c5d6de !important;
+  position: relative;
+  z-index: 1;
+}
+.dropdown-menu > li > a {
+  padding: 5px 15px !important;
+}
+.navbar-nav > li > a {
+  line-height: 25px !important;
+}
+#accordion .panel {
+  margin-top: 0;
+  border-radius: 0;
+}
+.panel-title > a {
+  display: block;
+}
+.clear-p-tb{
+  padding: 0 15px !important;
+}
+.clear-m-tb{
+  margin:0 15px !important;
+}
+.celar-m-bottom {
+  margin-bottom: 0px !important;
+}
+.clear-border-radius {
+  border-radius: 0 !important;
+}
+.bottom-position {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+.panel-content {
+  margin-right: 45px;
+  margin-left: 230px;
+  margin-top: 75px;
+}
+.panel-right{
+  width: 45px;
+  background: #fff;
+  position: fixed;
+  right: 0;
+  top: 55px;
+  border-left: 1px solid #c5d6de !important;
+}
+.panel-left{
+  width: 230px;
+  position: fixed;
+  left: 0;
+  top: 55px;
+  border-right: 1px solid #c5d6de !important;
+}
+.btn-panel-right {
+  padding: 10px !important;
+}
+.btn-padding-10 {
+  padding: 6px 10px !important;
+}
+.btn-panel-right:hover {
+  background: #c5d6de;
+}
+.responsive-img {
+  width: 100%;
+}
+.margin-top-15 {
+  margin-top: 15px;
+}
+.margin-top-7 {
+  margin-top: 7px;
+}
+.lene-height-24 {
+  line-height: 24px;
+}
+.badge-size-18 {
+  font-size: 18px !important;
+}
+.clear-badge {
+  background: transparent !important;
+  padding: 0 10px !important;
+  font-size: 20px !important;
+  color: #31708f !important;
+}
+.clear-border-lrt {
+  border-top: none !important;
+  border-bottom: 1px solid #ddd !important;
+  border-left: none !important;
+  border-right: none !important;
+}
+.clear-border-lrb {
+  border-top: 1px solid #ddd !important;
+  border-bottom: none !important;
+  border-left: none !important;
+  border-right: none !important;
+}
+.clear-border-lr {
+  border-top: 1px solid #ddd !important;
+  border-bottom: 1px solid #ddd !important;
+  border-left: none !important;
+  border-right: none !important;
+}
+#img_panel {
+  padding: 10%;
+}
+/* Text Color */
+.text-purple {
+  color: purple;
+}
+.text-orange {
+  color: orange;
+}
+.text-blue {
+  color: blue;
+}
+.text-fb {
+  color: #3157a6;
+}
+.text-twitter {
+  color: #28a9e0;
+}
